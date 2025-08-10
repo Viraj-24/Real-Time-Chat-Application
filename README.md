@@ -1,3 +1,6 @@
+## Live Demo
+[Click here to view the app](https://real-time-chat-application-3-703t.onrender.com/chat)
+
 # Real-Time Chat Application
 This is a **real-time chat application** built using **Spring Boot**, **WebSocket (STOMP over SockJS)** on the backend, and **HTML + Bootstrap** on the frontend.
 ##  Features
@@ -16,4 +19,5 @@ This is a **real-time chat application** built using **Spring Boot**, **WebSocke
 ### Frontend
 - HTML5 + Bootstrap 5
 - JavaScript (STOMP.js + SockJS)
+
 
